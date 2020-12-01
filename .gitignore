@@ -74,3 +74,5 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+.vscode/tasks.json
+.vscode/launch.json
